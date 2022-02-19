@@ -1,2 +1,2 @@
 # Algorithms
-Various Data Structures and Algorithms
+Various Data Structures and Algorithms in Java
